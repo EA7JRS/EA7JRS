@@ -17,6 +17,8 @@ Radioaficionado ([QRZ.com](https://www.qrz.com/db/EA7JRS) · [World Radio League
 | 🖥️ | [**APRS LoRa+ Display**](https://github.com/EA7JRS/APRS-LoRa-Plus-Display) | Pantallas táctiles Waveshare (7", 3,5", 2,8" y 1,69") que manejan el tracker por Bluetooth LE. |
 | 📱 | **APRS LoRa+ para Android** | App compañera: mensajería, estaciones y mapa, iGate, control del tracker, SDR, modos digitales y Android Auto. *En preparación.* |
 
+🎬 **Vídeos del proyecto:** [lista de reproducción de APRS LoRa+ en YouTube](https://www.youtube.com/playlist?list=PLE8sAZhekiko).
+
 Instala o actualiza el firmware desde el navegador (Chrome o Edge, por USB) en **[ea7jrs.github.io/APRS-LoRa-Plus](https://ea7jrs.github.io/APRS-LoRa-Plus/)**.
 
 ### Apoyar el proyecto
@@ -25,4 +27,4 @@ Si te resulta útil, puedes invitarme a un café: **[paypal.me/ea7jrs](https://p
 
 ---
 
-**English:** Hi, I'm Manuel, EA7JRS, a radio amateur. I develop **APRS LoRa+**, an open (GPL-3.0) ecosystem for APRS over LoRa and other radio modes: tracker firmware, an Android app, an antenna rotor controller and touch screens. QRZ: [qrz.com/db/EA7JRS](https://www.qrz.com/db/EA7JRS) · WRL: [worldradioleague.com/profile/EA7JRS](https://app.worldradioleague.com/profile/EA7JRS) · YouTube: [@EA7JRS](https://www.youtube.com/@EA7JRS) · Web installer: [ea7jrs.github.io/APRS-LoRa-Plus](https://ea7jrs.github.io/APRS-LoRa-Plus/) · Donations: [paypal.me/ea7jrs](https://paypal.me/ea7jrs). 73!
+**English:** Hi, I'm Manuel, EA7JRS, a radio amateur. I develop **APRS LoRa+**, an open (GPL-3.0) ecosystem for APRS over LoRa and other radio modes: tracker firmware, an Android app, an antenna rotor controller and touch screens. QRZ: [qrz.com/db/EA7JRS](https://www.qrz.com/db/EA7JRS) · WRL: [worldradioleague.com/profile/EA7JRS](https://app.worldradioleague.com/profile/EA7JRS) · YouTube: [@EA7JRS](https://www.youtube.com/@EA7JRS) ([project videos](https://www.youtube.com/playlist?list=PLE8sAZhekiko)) · Web installer: [ea7jrs.github.io/APRS-LoRa-Plus](https://ea7jrs.github.io/APRS-LoRa-Plus/) · Donations: [paypal.me/ea7jrs](https://paypal.me/ea7jrs). 73!
