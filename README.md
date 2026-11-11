@@ -3,7 +3,7 @@
 Radioaficionado ([QRZ.com/EA7JRS](https://www.qrz.com/db/EA7JRS)). Desarrollo **APRS LoRa+**, un ecosistema abierto (GPL-3.0) para APRS por LoRa y otros modos de radio: tracker, app Android, rotor de antenas y pantallas táctiles, todos con el mismo número de versión.
 
 [![Instalador web](https://img.shields.io/badge/Instalador%20web-ea7jrs.github.io%2FAPRS--LoRa--Plus-3CE68A?logo=googlechrome&logoColor=white)](https://ea7jrs.github.io/APRS-LoRa-Plus/)
-[![QRZ.com](https://img.shields.io/badge/QRZ.com-EA7JRS-C8102E?logo=amateurradio&logoColor=white)](https://www.qrz.com/db/EA7JRS)
+[![QRZ.com](https://img.shields.io/badge/QRZ.com-EA7JRS-C8102E)](https://www.qrz.com/db/EA7JRS)
 [![Donate · PayPal.me](https://img.shields.io/badge/Donate-paypal.me%2Fea7jrs-0070E0?logo=paypal&logoColor=white)](https://paypal.me/ea7jrs)
 
 ### Proyectos
