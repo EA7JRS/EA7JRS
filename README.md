@@ -1,9 +1,10 @@
 ## Hola, soy Manuel · EA7JRS 👋
 
-Radioaficionado ([QRZ.com/EA7JRS](https://www.qrz.com/db/EA7JRS)). Desarrollo **APRS LoRa+**, un ecosistema abierto (GPL-3.0) para APRS por LoRa y otros modos de radio: tracker, app Android, rotor de antenas y pantallas táctiles, todos con el mismo número de versión.
+Radioaficionado ([QRZ.com](https://www.qrz.com/db/EA7JRS) · [World Radio League](https://app.worldradioleague.com/profile/EA7JRS)). Desarrollo **APRS LoRa+**, un ecosistema abierto (GPL-3.0) para APRS por LoRa y otros modos de radio: tracker, app Android, rotor de antenas y pantallas táctiles, todos con el mismo número de versión.
 
 [![Instalador web](https://img.shields.io/badge/Instalador%20web-ea7jrs.github.io%2FAPRS--LoRa--Plus-3CE68A?logo=googlechrome&logoColor=white)](https://ea7jrs.github.io/APRS-LoRa-Plus/)
 [![QRZ.com](https://img.shields.io/badge/QRZ.com-EA7JRS-C8102E)](https://www.qrz.com/db/EA7JRS)
+[![World Radio League](https://img.shields.io/badge/World%20Radio%20League-EA7JRS-28B5E1)](https://app.worldradioleague.com/profile/EA7JRS)
 [![Donate · PayPal.me](https://img.shields.io/badge/Donate-paypal.me%2Fea7jrs-0070E0?logo=paypal&logoColor=white)](https://paypal.me/ea7jrs)
 
 ### Proyectos
@@ -23,4 +24,4 @@ Si te resulta útil, puedes invitarme a un café: **[paypal.me/ea7jrs](https://p
 
 ---
 
-**English:** Hi, I'm Manuel, EA7JRS, a radio amateur. I develop **APRS LoRa+**, an open (GPL-3.0) ecosystem for APRS over LoRa and other radio modes: tracker firmware, an Android app, an antenna rotor controller and touch screens. QRZ: [qrz.com/db/EA7JRS](https://www.qrz.com/db/EA7JRS) · Web installer: [ea7jrs.github.io/APRS-LoRa-Plus](https://ea7jrs.github.io/APRS-LoRa-Plus/) · Donations: [paypal.me/ea7jrs](https://paypal.me/ea7jrs). 73!
+**English:** Hi, I'm Manuel, EA7JRS, a radio amateur. I develop **APRS LoRa+**, an open (GPL-3.0) ecosystem for APRS over LoRa and other radio modes: tracker firmware, an Android app, an antenna rotor controller and touch screens. QRZ: [qrz.com/db/EA7JRS](https://www.qrz.com/db/EA7JRS) · WRL: [worldradioleague.com/profile/EA7JRS](https://app.worldradioleague.com/profile/EA7JRS) · Web installer: [ea7jrs.github.io/APRS-LoRa-Plus](https://ea7jrs.github.io/APRS-LoRa-Plus/) · Donations: [paypal.me/ea7jrs](https://paypal.me/ea7jrs). 73!
